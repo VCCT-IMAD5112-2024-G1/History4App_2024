@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP2024</string>
+    <string name="appHeader">Welcome Future Leaders</string>
+    <string name="textHint">Enter the number</string>
+    <string name="buttonText">Generate Answer</string>
+    <string name="buttonId">Clear</string>
+    <string name="textName">Results</string>
+</resources>
